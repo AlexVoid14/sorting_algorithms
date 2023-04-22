@@ -4,7 +4,7 @@
  * swap_nodes - Swaps two nodes
  * @node1: Pointer to address of node 1
  * @node2: Pointer to address of node 2
- * @list: blbla
+ * @head: blbla
  * Return: Nothing
  */
 void swap_nodes(listint_t **head, listint_t **node1, listint_t **node2)
