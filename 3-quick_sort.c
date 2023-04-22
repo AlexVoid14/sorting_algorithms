@@ -53,7 +53,7 @@ int partition(int *arr, int first, int last, size_t size)
 void quickSort(int *arr, int first, int last, size_t size)
 {
 	int pivot;
-	
+
 	if (first < last)
 	{
 		pivot = partition(arr, first, last, size);
